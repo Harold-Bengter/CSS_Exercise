@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital,wght@0,100;0,400;1,100;1,300&family=Cabin+Condensed&family=Oswald:wght@300&family=Parisienne&family=Taviraj:ital,wght@0,100;0,500;1,100;1,200;1,700&display=swap');
+body
+{
+background-color: rgb(245, 243, 243);
+color: rgb(64, 62, 78);
+font-family: 'Alegreya Sans SC', sans-serif;
+font-family: 'Cabin Condensed', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Parisienne', cursive;
+font-family: 'Taviraj', serif;
+font-weight: 700;
+}
+.nav-link{
+    text-decoration: none;
+    color: rgb(207, 137, 57);
+}
+
+main{
+    max-width:600px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header { 
+    display: flex;
+    justify-content: center;
+    }
+
+section{
+    margin-top: 100px;
+    margin-bottom: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+#Title{
+    font-family: 'Oswald', sans-serif;;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.d-line {
+    display: inline;
+}
+
+nav ul{
+    list-style: none;
+}
+#Avatar{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
